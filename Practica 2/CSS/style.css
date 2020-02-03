@@ -1,0 +1,39 @@
+.main{
+    background-color: deeppink;
+    font-family: sans-serif;
+   }
+   .menu{
+       font-size: large;
+       font-weight: bold;
+       color: cornsilk;
+   }
+   .menu a{
+       font-weight: bold;
+       color: #ffffff;
+   }
+   .navegador a{
+       margin-top:10px;
+       margin-left: 10px;
+       margin-bottom: 10px;
+       margin-right: 10px;
+       text-decoration: none;
+   }
+   .navegador{
+       padding:20px;
+       background-color: cornflowerblue;
+   }
+   p{
+       color: white;
+   }
+   .titulo3{
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+   font-style: normal;
+   color: white;
+   font-size: large;
+   }
+   .login{
+       text-align: right;
+       margin-right: 0;
+       position: absolute;
+   }
